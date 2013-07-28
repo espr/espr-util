@@ -1,0 +1,17 @@
+{
+  "name": "espr-util",
+  "description": "utilities for esprs",
+  "version": "0.0.1",
+  "author": "espr <espr@newcu.be>",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "coffee-script":"latest",
+    "mocha":"latest",
+    "chai":"latest",
+    "sinon":"latest",
+    "promises-aplus-tests":"latest"
+  },
+  "main": "index",
+  "engines": { "node": "*" }
+}
