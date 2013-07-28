@@ -3,6 +3,10 @@
   "description": "utilities for esprs",
   "version": "0.0.1",
   "author": "espr <espr@newcu.be>",
+  "repository":"https://github.com/espr/espr-util.git",
+  "scripts": {
+    "test":"./node_modules/.bin/cake test"
+  },
   "dependencies": {
   },
   "devDependencies": {
